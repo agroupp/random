@@ -9,6 +9,8 @@ Install Random as an npm module and save it to your package.json file as a depen
 ## Usage
 Library provides class Random with static methods for generating various numbers, arrays and sequences with randimized content. Generation based on usage of Node.js `crypto` module and won't work in browser environment. Thanks to `crypto` module it generates cryptographically strong values that you can use in various tasks like shuffling arrays or generation "short ids". Most of the methods built to work asynchronous and won't block your API's. Just resolve returning promisees and enjoy the results.
 
+Library written on `Typescript` with type definitions provided, so feel free to use with any `Typescript` environment like [NestJS](https://nestjs.com/).
+
 ## Example
 
 ```javascript
