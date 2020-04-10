@@ -1,6 +1,10 @@
 # Random
 Node.js library for generation various cryptographically strong pseudo-random numbers and sequences.
 
+
+[![Build Status](https://travis-ci.com/agroupp/random.svg?branch=master)](https://travis-ci.com/agroupp/random)
+
+
 ## Installation
 Install Random as an npm module and save it to your package.json file as a dependency:
     
